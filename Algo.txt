@@ -1,0 +1,5 @@
+1. Decide which pizza shop to order from
+2. Decide the preferred kind of pizza
+3. Order the selected pizza online
+4. Request user to put any sides/drinks
+5. Order the selected sides and drinks
