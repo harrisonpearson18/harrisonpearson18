@@ -11,3 +11,16 @@ C:\Users\harri\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.
 C:\Users\harri\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.dll
 C:\Users\harri\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.pdb
 C:\Users\harri\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.genruntimeconfig.cache
+C:\Users\harri\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.exe
+C:\Users\harri\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.deps.json
+C:\Users\harri\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.json
+C:\Users\harri\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.dev.json
+C:\Users\harri\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\harri\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\harri\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csprojAssemblyReference.cache
+C:\Users\harri\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\harri\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfo.cs
+C:\Users\harri\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\harri\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\harri\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\harri\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.genruntimeconfig.cache

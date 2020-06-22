@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harri\\repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
-      "projectName": "MethodExercise",
-      "projectPath": "C:\\Users\\harri\\repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
+      "projectUniqueName": "C:\\Users\\harri\\repos\\OperatorExercise\\OperatorExercise\\OperatorExercise.csproj",
+      "projectName": "OperatorExercise",
+      "projectPath": "C:\\Users\\harri\\repos\\OperatorExercise\\OperatorExercise\\OperatorExercise.csproj",
       "packagesPath": "C:\\Users\\harri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harri\\repos\\MethodExercise\\MethodExercise\\obj\\",
+      "outputPath": "C:\\Users\\harri\\repos\\OperatorExercise\\OperatorExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harri\\AppData\\Roaming\\NuGet\\NuGet.Config",
