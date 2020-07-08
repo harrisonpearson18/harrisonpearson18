@@ -1,0 +1,13 @@
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\netcoreapp3.1\FactoryPatternVehicles.exe
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\netcoreapp3.1\FactoryPatternVehicles.deps.json
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\netcoreapp3.1\FactoryPatternVehicles.runtimeconfig.json
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\netcoreapp3.1\FactoryPatternVehicles.runtimeconfig.dev.json
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\netcoreapp3.1\FactoryPatternVehicles.dll
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\netcoreapp3.1\FactoryPatternVehicles.pdb
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\netcoreapp3.1\FactoryPatternVehicles.csprojAssemblyReference.cache
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\netcoreapp3.1\FactoryPatternVehicles.AssemblyInfoInputs.cache
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\netcoreapp3.1\FactoryPatternVehicles.AssemblyInfo.cs
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\netcoreapp3.1\FactoryPatternVehicles.csproj.CoreCompileInputs.cache
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\netcoreapp3.1\FactoryPatternVehicles.dll
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\netcoreapp3.1\FactoryPatternVehicles.pdb
+C:\Users\harri\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\netcoreapp3.1\FactoryPatternVehicles.genruntimeconfig.cache

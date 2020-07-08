@@ -52,6 +52,9 @@ namespace MethodsWithLoopsAndConditionals
             Console.WriteLine("Enter a number to cube");
             int cube = int.Parse(Console.ReadLine());
             cubePower(cube);
+
+
+            Console.WriteLine("Thanks for running me :D");
         }
 
         static void numPrinter()
