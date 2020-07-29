@@ -1,0 +1,15 @@
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\bin\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.exe
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\obj\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.csprojAssemblyReference.cache
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\obj\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.AssemblyInfoInputs.cache
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\obj\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.AssemblyInfo.cs
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\bin\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.deps.json
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\bin\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.runtimeconfig.json
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\bin\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.runtimeconfig.dev.json
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\bin\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.dll
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\bin\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.pdb
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\obj\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.csproj.CoreCompileInputs.cache
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\obj\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.csproj.CopyComplete
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\obj\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.dll
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\obj\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.pdb
+C:\Users\harri\repos\KanyeWestandRonSwanson API\KanyeWestandRonSwanson API\obj\Debug\netcoreapp3.1\KanyeWestandRonSwanson API.genruntimeconfig.cache
